@@ -1,1 +1,10 @@
 __pycache__/
+**/__pycache__/
+
+flaskr.egg-info/
+.pytest_cache/
+.ropeproject/
+.coverage
+
+dist/
+build/
